@@ -13,6 +13,7 @@
   --cover-bg-image: url(../images/cover-image-light.png);
   --accent-color-hover: rgba(50, 49, 45, 0.4);
   --text-title-color: rgba(53, 52, 48, 1) ;
+  --decor-color: #353430;
 }
 
 @media (prefers-color-scheme: light) {
@@ -24,6 +25,8 @@
     --accent-text-color:rgba(53, 52, 48, 1);
     --cover-bg-image: url(../images/cover-image-light.png);
     --accent-color-hover: rgba(50, 49, 45, 0.4);
+    --text-title-color: #353430;
+    --decor-color: #353430;
   }
 
   .header__rec {
